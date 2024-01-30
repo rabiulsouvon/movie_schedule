@@ -1,2 +1,2 @@
 # movie_schedule
-This project creates used HTML, CSS, Basic PHP and Basic MySQL Database
+This project creates used HTML, CSS, Intermediate PHP and Intermediate MySQL Database
