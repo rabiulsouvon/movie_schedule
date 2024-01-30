@@ -1,4 +1,4 @@
-<div id="footer"> Developer Sabikun Nahar</div>
+<div id="footer"> Developer MRI</div>
 		
     </body>
 
